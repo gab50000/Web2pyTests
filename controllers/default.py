@@ -82,3 +82,9 @@ def hundundherrchen():
 
 def buttontest():
     return dict()
+
+def posttest():
+    return dict()
+
+def jquerytest():
+    return dict()
